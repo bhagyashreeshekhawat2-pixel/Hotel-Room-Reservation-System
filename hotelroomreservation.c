@@ -104,16 +104,16 @@ int menu()
 int main(){
         int choice;
 
-        printf("Program Started\n");
+        
 
         initializeRooms();
 
-        printf("Before Load\n");
+        
 
         //load previously saved data
         loadRecords();
 
-        printf("After Load\n");
+        
         
 
         while(1)
@@ -707,11 +707,11 @@ void loadRecords()
 
     if(fp == NULL)
     {
-        printf("Cannot open hoteldata.txt\n");
+        
         return;
     }
 
-    printf("hoteldata.txt opened successfully.\n");
+    
 
     for(int i=0;i<TOTAL_ROOMS;i++)
     {
