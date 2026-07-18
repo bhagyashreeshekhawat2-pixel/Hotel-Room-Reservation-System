@@ -1,0 +1,94 @@
+=========================================
+      HOTEL RESERVATION RECORDS
+=========================================
+
+Room No.        : 101
+Room Type       : Standard
+Price           : 3000
+Booked          : 1
+Checked In      : 0
+Customer Name   : Meghna
+Phone           : 7896541230
+Days            : 5
+----------------------------
+Room No.        : 102
+Room Type       : Standard
+Price           : 3000
+Booked          : 0
+Checked In      : 0
+Customer Name   : 
+Phone           : 
+Days            : 0
+----------------------------
+Room No.        : 103
+Room Type       : Standard
+Price           : 3000
+Booked          : 0
+Checked In      : 0
+Customer Name   : 
+Phone           : 
+Days            : 0
+----------------------------
+Room No.        : 104
+Room Type       : Deluxe
+Price           : 5500
+Booked          : 0
+Checked In      : 0
+Customer Name   : 
+Phone           : 
+Days            : 0
+----------------------------
+Room No.        : 105
+Room Type       : Deluxe
+Price           : 5500
+Booked          : 0
+Checked In      : 0
+Customer Name   : 
+Phone           : 
+Days            : 0
+----------------------------
+Room No.        : 106
+Room Type       : Deluxe
+Price           : 5500
+Booked          : 0
+Checked In      : 0
+Customer Name   : 
+Phone           : 
+Days            : 0
+----------------------------
+Room No.        : 107
+Room Type       : Suite
+Price           : 7500
+Booked          : 0
+Checked In      : 0
+Customer Name   : 
+Phone           : 
+Days            : 0
+----------------------------
+Room No.        : 108
+Room Type       : Suite
+Price           : 7500
+Booked          : 0
+Checked In      : 0
+Customer Name   : 
+Phone           : 
+Days            : 0
+----------------------------
+Room No.        : 109
+Room Type       : Suite
+Price           : 7500
+Booked          : 0
+Checked In      : 0
+Customer Name   : 
+Phone           : 
+Days            : 0
+----------------------------
+Room No.        : 110
+Room Type       : VIP_Suite
+Price           : 10500
+Booked          : 1
+Checked In      : 1
+Customer Name   : Nirbhay
+Phone           : 8520193746
+Days            : 7
+----------------------------

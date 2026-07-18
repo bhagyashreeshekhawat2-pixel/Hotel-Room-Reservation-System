@@ -1,0 +1,10 @@
+101 Standard 3000 1 0 Meghna 7896541230 5
+102 Standard 3000 0 0   0
+103 Standard 3000 0 0   0
+104 Deluxe 5500 0 0   0
+105 Deluxe 5500 0 0   0
+106 Deluxe 5500 0 0   0
+107 Suite 7500 0 0   0
+108 Suite 7500 0 0   0
+109 Suite 7500 0 0   0
+110 VIP_Suite 10500 1 1 Nirbhay 8520193746 7
